@@ -1,0 +1,5507 @@
+/* INSERT QUERY NO: 1 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N940CA', 'OH'
+);
+
+/* INSERT QUERY NO: 2 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N405FJ', 'DH'
+);
+
+/* INSERT QUERY NO: 3 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N695BR', 'DH'
+);
+
+/* INSERT QUERY NO: 4 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N662BR', 'DH'
+);
+
+/* INSERT QUERY NO: 5 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N698BR', 'DH'
+);
+
+/* INSERT QUERY NO: 6 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N687BR', 'DH'
+);
+
+/* INSERT QUERY NO: 7 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N321UE', 'DH'
+);
+
+/* INSERT QUERY NO: 8 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N301UE', 'DH'
+);
+
+/* INSERT QUERY NO: 9 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N328UE', 'DH'
+);
+
+/* INSERT QUERY NO: 10 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N685BR', 'DH'
+);
+
+/* INSERT QUERY NO: 11 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N645BR', 'DH'
+);
+
+/* INSERT QUERY NO: 12 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N918DE', 'DL'
+);
+
+/* INSERT QUERY NO: 13 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N242DL', 'DL'
+);
+
+/* INSERT QUERY NO: 14 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N241DL', 'DL'
+);
+
+/* INSERT QUERY NO: 15 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N709MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 16 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N717MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 17 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N707MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 18 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N737MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 19 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N726MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 20 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N724MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 21 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N513UA', 'UA'
+);
+
+/* INSERT QUERY NO: 22 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N709UW', 'US'
+);
+
+/* INSERT QUERY NO: 23 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N748UW', 'US'
+);
+
+/* INSERT QUERY NO: 24 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14916', 'RU'
+);
+
+/* INSERT QUERY NO: 25 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16954', 'RU'
+);
+
+/* INSERT QUERY NO: 26 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N26549', 'RU'
+);
+
+/* INSERT QUERY NO: 27 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N18611', 'CO'
+);
+
+/* INSERT QUERY NO: 28 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N19357', 'CO'
+);
+
+/* INSERT QUERY NO: 29 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N691BR', 'DH'
+);
+
+/* INSERT QUERY NO: 30 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N697BR', 'DH'
+);
+
+/* INSERT QUERY NO: 31 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N699BR', 'DH'
+);
+
+/* INSERT QUERY NO: 32 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N12540', 'RU'
+);
+
+/* INSERT QUERY NO: 33 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16149', 'RU'
+);
+
+/* INSERT QUERY NO: 34 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N12564', 'RU'
+);
+
+/* INSERT QUERY NO: 35 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N21537', 'RU'
+);
+
+/* INSERT QUERY NO: 36 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N15983', 'RU'
+);
+
+/* INSERT QUERY NO: 37 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N12519', 'RU'
+);
+
+/* INSERT QUERY NO: 38 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N19966', 'RU'
+);
+
+/* INSERT QUERY NO: 39 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N995CA', 'OH'
+);
+
+/* INSERT QUERY NO: 40 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N415FJ', 'DH'
+);
+
+/* INSERT QUERY NO: 41 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N688BR', 'DH'
+);
+
+/* INSERT QUERY NO: 42 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N665BR', 'DH'
+);
+
+/* INSERT QUERY NO: 43 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N639BR', 'DH'
+);
+
+/* INSERT QUERY NO: 44 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N686BR', 'DH'
+);
+
+/* INSERT QUERY NO: 45 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N332UE', 'DH'
+);
+
+/* INSERT QUERY NO: 46 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N324UE', 'DH'
+);
+
+/* INSERT QUERY NO: 47 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N305UE', 'DH'
+);
+
+/* INSERT QUERY NO: 48 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N322UE', 'DH'
+);
+
+/* INSERT QUERY NO: 49 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N657BR', 'DH'
+);
+
+/* INSERT QUERY NO: 50 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N315UE', 'DH'
+);
+
+/* INSERT QUERY NO: 51 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N709BR', 'DH'
+);
+
+/* INSERT QUERY NO: 52 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N964DL', 'DL'
+);
+
+/* INSERT QUERY NO: 53 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N225DL', 'DL'
+);
+
+/* INSERT QUERY NO: 54 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N720MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 55 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N736MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 56 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N727MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 57 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N713MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 58 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N708MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 59 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N718MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 60 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N556UA', 'UA'
+);
+
+/* INSERT QUERY NO: 61 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N710UW', 'US'
+);
+
+/* INSERT QUERY NO: 62 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N736UW', 'US'
+);
+
+/* INSERT QUERY NO: 63 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16961', 'RU'
+);
+
+/* INSERT QUERY NO: 64 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N12946', 'RU'
+);
+
+/* INSERT QUERY NO: 65 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14342', 'CO'
+);
+
+/* INSERT QUERY NO: 66 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14664', 'CO'
+);
+
+/* INSERT QUERY NO: 67 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N11641', 'CO'
+);
+
+/* INSERT QUERY NO: 68 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N679BR', 'DH'
+);
+
+/* INSERT QUERY NO: 69 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N309UE', 'DH'
+);
+
+/* INSERT QUERY NO: 70 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N312UE', 'DH'
+);
+
+/* INSERT QUERY NO: 71 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14977', 'RU'
+);
+
+/* INSERT QUERY NO: 72 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13990', 'RU'
+);
+
+/* INSERT QUERY NO: 73 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14907', 'RU'
+);
+
+/* INSERT QUERY NO: 74 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13997', 'RU'
+);
+
+/* INSERT QUERY NO: 75 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N12528', 'RU'
+);
+
+/* INSERT QUERY NO: 76 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N11107', 'RU'
+);
+
+/* INSERT QUERY NO: 77 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14505', 'RU'
+);
+
+/* INSERT QUERY NO: 78 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16151', 'RU'
+);
+
+/* INSERT QUERY NO: 79 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N15985', 'RU'
+);
+
+/* INSERT QUERY NO: 80 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N17108', 'RU'
+);
+
+/* INSERT QUERY NO: 81 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13118', 'RU'
+);
+
+/* INSERT QUERY NO: 82 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N15574', 'RU'
+);
+
+/* INSERT QUERY NO: 83 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N696BR', 'DH'
+);
+
+/* INSERT QUERY NO: 84 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N327UE', 'DH'
+);
+
+/* INSERT QUERY NO: 85 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N311UE', 'DH'
+);
+
+/* INSERT QUERY NO: 86 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N655BR', 'DH'
+);
+
+/* INSERT QUERY NO: 87 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N329UE', 'DH'
+);
+
+/* INSERT QUERY NO: 88 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N997DL', 'DL'
+);
+
+/* INSERT QUERY NO: 89 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N734MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 90 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N712MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 91 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N739MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 92 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N567UA', 'UA'
+);
+
+/* INSERT QUERY NO: 93 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N760UW', 'US'
+);
+
+/* INSERT QUERY NO: 94 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N11536', 'RU'
+);
+
+/* INSERT QUERY NO: 95 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14974', 'RU'
+);
+
+/* INSERT QUERY NO: 96 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N11612', 'CO'
+);
+
+/* INSERT QUERY NO: 97 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N693BR', 'DH'
+);
+
+/* INSERT QUERY NO: 98 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N672BR', 'DH'
+);
+
+/* INSERT QUERY NO: 99 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N643BR', 'DH'
+);
+
+/* INSERT QUERY NO: 100 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N333UE', 'DH'
+);
+
+/* INSERT QUERY NO: 101 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N17146', 'RU'
+);
+
+/* INSERT QUERY NO: 102 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N17513', 'RU'
+);
+
+/* INSERT QUERY NO: 103 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14925', 'RU'
+);
+
+/* INSERT QUERY NO: 104 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14998', 'RU'
+);
+
+/* INSERT QUERY NO: 105 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13955', 'RU'
+);
+
+/* INSERT QUERY NO: 106 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N12136', 'RU'
+);
+
+/* INSERT QUERY NO: 107 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N973CA', 'OH'
+);
+
+/* INSERT QUERY NO: 108 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N424FJ', 'DH'
+);
+
+/* INSERT QUERY NO: 109 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N632BR', 'DH'
+);
+
+/* INSERT QUERY NO: 110 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N654BR', 'DH'
+);
+
+/* INSERT QUERY NO: 111 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N634BR', 'DH'
+);
+
+/* INSERT QUERY NO: 112 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N673BR', 'DH'
+);
+
+/* INSERT QUERY NO: 113 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N330UE', 'DH'
+);
+
+/* INSERT QUERY NO: 114 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N314UE', 'DH'
+);
+
+/* INSERT QUERY NO: 115 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N313UE', 'DH'
+);
+
+/* INSERT QUERY NO: 116 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N626BR', 'DH'
+);
+
+/* INSERT QUERY NO: 117 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N674BR', 'DH'
+);
+
+/* INSERT QUERY NO: 118 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N912DL', 'DL'
+);
+
+/* INSERT QUERY NO: 119 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N221DL', 'DL'
+);
+
+/* INSERT QUERY NO: 120 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N719MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 121 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N559UA', 'UA'
+);
+
+/* INSERT QUERY NO: 122 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N730UW', 'US'
+);
+
+/* INSERT QUERY NO: 123 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N765UW', 'US'
+);
+
+/* INSERT QUERY NO: 124 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N746UW', 'US'
+);
+
+/* INSERT QUERY NO: 125 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N711UW', 'US'
+);
+
+/* INSERT QUERY NO: 126 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14943', 'RU'
+);
+
+/* INSERT QUERY NO: 127 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13949', 'RU'
+);
+
+/* INSERT QUERY NO: 128 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14933', 'RU'
+);
+
+/* INSERT QUERY NO: 129 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N59630', 'CO'
+);
+
+/* INSERT QUERY NO: 130 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16649', 'CO'
+);
+
+/* INSERT QUERY NO: 131 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N640BR', 'DH'
+);
+
+/* INSERT QUERY NO: 132 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N638BR', 'DH'
+);
+
+/* INSERT QUERY NO: 133 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13992', 'RU'
+);
+
+/* INSERT QUERY NO: 134 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N24128', 'RU'
+);
+
+/* INSERT QUERY NO: 135 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16987', 'RU'
+);
+
+/* INSERT QUERY NO: 136 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N12569', 'RU'
+);
+
+/* INSERT QUERY NO: 137 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N18101', 'RU'
+);
+
+/* INSERT QUERY NO: 138 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N814CA', 'OH'
+);
+
+/* INSERT QUERY NO: 139 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N649BR', 'DH'
+);
+
+/* INSERT QUERY NO: 140 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N651BR', 'DH'
+);
+
+/* INSERT QUERY NO: 141 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N331UE', 'DH'
+);
+
+/* INSERT QUERY NO: 142 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N683BR', 'DH'
+);
+
+/* INSERT QUERY NO: 143 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N303UE', 'DH'
+);
+
+/* INSERT QUERY NO: 144 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N994DL', 'DL'
+);
+
+/* INSERT QUERY NO: 145 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N223DZ', 'DL'
+);
+
+/* INSERT QUERY NO: 146 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N704MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 147 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N706MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 148 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N716MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 149 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N700MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 150 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N846MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 151 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N516UA', 'UA'
+);
+
+/* INSERT QUERY NO: 152 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N762UW', 'US'
+);
+
+/* INSERT QUERY NO: 153 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N750UW', 'US'
+);
+
+/* INSERT QUERY NO: 154 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N733UW', 'US'
+);
+
+/* INSERT QUERY NO: 155 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N767UW', 'US'
+);
+
+/* INSERT QUERY NO: 156 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14923', 'RU'
+);
+
+/* INSERT QUERY NO: 157 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16951', 'RU'
+);
+
+/* INSERT QUERY NO: 158 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14628', 'CO'
+);
+
+/* INSERT QUERY NO: 159 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14654', 'CO'
+);
+
+/* INSERT QUERY NO: 160 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14341', 'CO'
+);
+
+/* INSERT QUERY NO: 161 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N622BR', 'DH'
+);
+
+/* INSERT QUERY NO: 162 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N664BR', 'DH'
+);
+
+/* INSERT QUERY NO: 163 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N667BR', 'DH'
+);
+
+/* INSERT QUERY NO: 164 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N320UE', 'DH'
+);
+
+/* INSERT QUERY NO: 165 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N18556', 'RU'
+);
+
+/* INSERT QUERY NO: 166 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14952', 'RU'
+);
+
+/* INSERT QUERY NO: 167 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16511', 'RU'
+);
+
+/* INSERT QUERY NO: 168 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N12126', 'RU'
+);
+
+/* INSERT QUERY NO: 169 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14570', 'RU'
+);
+
+/* INSERT QUERY NO: 170 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13979', 'RU'
+);
+
+/* INSERT QUERY NO: 171 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14940', 'RU'
+);
+
+/* INSERT QUERY NO: 172 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N27152', 'RU'
+);
+
+/* INSERT QUERY NO: 173 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14991', 'RU'
+);
+
+/* INSERT QUERY NO: 174 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N15948', 'RU'
+);
+
+/* INSERT QUERY NO: 175 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N805CA', 'OH'
+);
+
+/* INSERT QUERY NO: 176 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N307UE', 'DH'
+);
+
+/* INSERT QUERY NO: 177 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N676BR', 'DH'
+);
+
+/* INSERT QUERY NO: 178 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N316UE', 'DH'
+);
+
+/* INSERT QUERY NO: 179 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N308UE', 'DH'
+);
+
+/* INSERT QUERY NO: 180 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N694BR', 'DH'
+);
+
+/* INSERT QUERY NO: 181 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N949DL', 'DL'
+);
+
+/* INSERT QUERY NO: 182 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N838MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 183 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N614MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 184 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N710MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 185 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N715MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 186 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N501UA', 'UA'
+);
+
+/* INSERT QUERY NO: 187 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N764UW', 'US'
+);
+
+/* INSERT QUERY NO: 188 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N721UW', 'US'
+);
+
+/* INSERT QUERY NO: 189 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N719UW', 'US'
+);
+
+/* INSERT QUERY NO: 190 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N754UW', 'US'
+);
+
+/* INSERT QUERY NO: 191 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N29917', 'RU'
+);
+
+/* INSERT QUERY NO: 192 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N27962', 'RU'
+);
+
+/* INSERT QUERY NO: 193 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13958', 'RU'
+);
+
+/* INSERT QUERY NO: 194 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N12924', 'RU'
+);
+
+/* INSERT QUERY NO: 195 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N24224', 'CO'
+);
+
+/* INSERT QUERY NO: 196 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N38257', 'CO'
+);
+
+/* INSERT QUERY NO: 197 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16648', 'CO'
+);
+
+/* INSERT QUERY NO: 198 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N652BR', 'DH'
+);
+
+/* INSERT QUERY NO: 199 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14573', 'RU'
+);
+
+/* INSERT QUERY NO: 200 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14947', 'RU'
+);
+
+/* INSERT QUERY NO: 201 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16147', 'RU'
+);
+
+/* INSERT QUERY NO: 202 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N11137', 'RU'
+);
+
+/* INSERT QUERY NO: 203 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N17115', 'RU'
+);
+
+/* INSERT QUERY NO: 204 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16911', 'RU'
+);
+
+/* INSERT QUERY NO: 205 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13969', 'RU'
+);
+
+/* INSERT QUERY NO: 206 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N983CA', 'OH'
+);
+
+/* INSERT QUERY NO: 207 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N408FJ', 'DH'
+);
+
+/* INSERT QUERY NO: 208 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N684BR', 'DH'
+);
+
+/* INSERT QUERY NO: 209 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N908DE', 'DL'
+);
+
+/* INSERT QUERY NO: 210 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N224DA', 'DL'
+);
+
+/* INSERT QUERY NO: 211 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N705MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 212 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N722MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 213 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N723MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 214 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N733MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 215 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N730MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 216 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N703MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 217 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N735MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 218 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N725UW', 'US'
+);
+
+/* INSERT QUERY NO: 219 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N722UW', 'US'
+);
+
+/* INSERT QUERY NO: 220 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N744UW', 'US'
+);
+
+/* INSERT QUERY NO: 221 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N720UW', 'US'
+);
+
+/* INSERT QUERY NO: 222 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N36915', 'RU'
+);
+
+/* INSERT QUERY NO: 223 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N18557', 'RU'
+);
+
+/* INSERT QUERY NO: 224 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N60312', 'CO'
+);
+
+/* INSERT QUERY NO: 225 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N76355', 'CO'
+);
+
+/* INSERT QUERY NO: 226 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N18622', 'CO'
+);
+
+/* INSERT QUERY NO: 227 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N628BR', 'DH'
+);
+
+/* INSERT QUERY NO: 228 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13903', 'RU'
+);
+
+/* INSERT QUERY NO: 229 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N11150', 'RU'
+);
+
+/* INSERT QUERY NO: 230 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13538', 'RU'
+);
+
+/* INSERT QUERY NO: 231 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N15527', 'RU'
+);
+
+/* INSERT QUERY NO: 232 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14153', 'RU'
+);
+
+/* INSERT QUERY NO: 233 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N11140', 'RU'
+);
+
+/* INSERT QUERY NO: 234 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N819cA', 'OH'
+);
+
+/* INSERT QUERY NO: 235 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N418FJ', 'DH'
+);
+
+/* INSERT QUERY NO: 236 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N682BR', 'DH'
+);
+
+/* INSERT QUERY NO: 237 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N680BR', 'DH'
+);
+
+/* INSERT QUERY NO: 238 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N642BR', 'DH'
+);
+
+/* INSERT QUERY NO: 239 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N631BR', 'DH'
+);
+
+/* INSERT QUERY NO: 240 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N962DL', 'DL'
+);
+
+/* INSERT QUERY NO: 241 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N732MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 242 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N721MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 243 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N518UA', 'UA'
+);
+
+/* INSERT QUERY NO: 244 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N727UW', 'US'
+);
+
+/* INSERT QUERY NO: 245 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N770UW', 'US'
+);
+
+/* INSERT QUERY NO: 246 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N738UW', 'US'
+);
+
+/* INSERT QUERY NO: 247 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13935', 'RU'
+);
+
+/* INSERT QUERY NO: 248 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N15973', 'RU'
+);
+
+/* INSERT QUERY NO: 249 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N29717', 'CO'
+);
+
+/* INSERT QUERY NO: 250 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N18658', 'CO'
+);
+
+/* INSERT QUERY NO: 251 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14645', 'CO'
+);
+
+/* INSERT QUERY NO: 252 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13132', 'RU'
+);
+
+/* INSERT QUERY NO: 253 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N24103', 'RU'
+);
+
+/* INSERT QUERY NO: 254 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N25504', 'RU'
+);
+
+/* INSERT QUERY NO: 255 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N10575', 'RU'
+);
+
+/* INSERT QUERY NO: 256 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N11565', 'RU'
+);
+
+/* INSERT QUERY NO: 257 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16546', 'RU'
+);
+
+/* INSERT QUERY NO: 258 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16963', 'RU'
+);
+
+/* INSERT QUERY NO: 259 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N812CA', 'OH'
+);
+
+/* INSERT QUERY NO: 260 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N650BR', 'DH'
+);
+
+/* INSERT QUERY NO: 261 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N658BR', 'DH'
+);
+
+/* INSERT QUERY NO: 262 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N647BR', 'DH'
+);
+
+/* INSERT QUERY NO: 263 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N675BR', 'DH'
+);
+
+/* INSERT QUERY NO: 264 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N951DL', 'DL'
+);
+
+/* INSERT QUERY NO: 265 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N222DZ', 'DL'
+);
+
+/* INSERT QUERY NO: 266 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N801MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 267 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N731MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 268 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N520UA', 'UA'
+);
+
+/* INSERT QUERY NO: 269 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N724UW', 'US'
+);
+
+/* INSERT QUERY NO: 270 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N15926', 'RU'
+);
+
+/* INSERT QUERY NO: 271 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13989', 'RU'
+);
+
+/* INSERT QUERY NO: 272 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N12552', 'RU'
+);
+
+/* INSERT QUERY NO: 273 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N70353', 'CO'
+);
+
+/* INSERT QUERY NO: 274 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N46625', 'CO'
+);
+
+/* INSERT QUERY NO: 275 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N19621', 'CO'
+);
+
+/* INSERT QUERY NO: 276 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N661BR', 'DH'
+);
+
+/* INSERT QUERY NO: 277 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N646BR', 'DH'
+);
+
+/* INSERT QUERY NO: 278 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13550', 'RU'
+);
+
+/* INSERT QUERY NO: 279 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N12900', 'RU'
+);
+
+/* INSERT QUERY NO: 280 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N627BR', 'DH'
+);
+
+/* INSERT QUERY NO: 281 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N692BR', 'DH'
+);
+
+/* INSERT QUERY NO: 282 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N906DE', 'DL'
+);
+
+/* INSERT QUERY NO: 283 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N841MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 284 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N565UA', 'UA'
+);
+
+/* INSERT QUERY NO: 285 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13553', 'RU'
+);
+
+/* INSERT QUERY NO: 286 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13936', 'RU'
+);
+
+/* INSERT QUERY NO: 287 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14660', 'CO'
+);
+
+/* INSERT QUERY NO: 288 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N705BR', 'DH'
+);
+
+/* INSERT QUERY NO: 289 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N625BR', 'DH'
+);
+
+/* INSERT QUERY NO: 290 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N26545', 'RU'
+);
+
+/* INSERT QUERY NO: 291 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N17560', 'RU'
+);
+
+/* INSERT QUERY NO: 292 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N11113', 'RU'
+);
+
+/* INSERT QUERY NO: 293 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N966CA', 'OH'
+);
+
+/* INSERT QUERY NO: 294 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N706BR', 'DH'
+);
+
+/* INSERT QUERY NO: 295 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N677BR', 'DH'
+);
+
+/* INSERT QUERY NO: 296 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N970DL', 'DL'
+);
+
+/* INSERT QUERY NO: 297 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N588UA', 'UA'
+);
+
+/* INSERT QUERY NO: 298 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N763UW', 'US'
+);
+
+/* INSERT QUERY NO: 299 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N33608', 'CO'
+);
+
+/* INSERT QUERY NO: 300 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N11656', 'CO'
+);
+
+/* INSERT QUERY NO: 301 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N19623', 'CO'
+);
+
+/* INSERT QUERY NO: 302 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13123', 'RU'
+);
+
+/* INSERT QUERY NO: 303 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13975', 'RU'
+);
+
+/* INSERT QUERY NO: 304 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16976', 'RU'
+);
+
+/* INSERT QUERY NO: 305 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14993', 'RU'
+);
+
+/* INSERT QUERY NO: 306 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13968', 'RU'
+);
+
+/* INSERT QUERY NO: 307 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N702BR', 'DH'
+);
+
+/* INSERT QUERY NO: 308 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N659BR', 'DH'
+);
+
+/* INSERT QUERY NO: 309 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N974DL', 'DL'
+);
+
+/* INSERT QUERY NO: 310 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N725MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 311 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N711MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 312 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N562UA', 'UA'
+);
+
+/* INSERT QUERY NO: 313 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N708UW', 'US'
+);
+
+/* INSERT QUERY NO: 314 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N32626', 'CO'
+);
+
+/* INSERT QUERY NO: 315 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N23657', 'CO'
+);
+
+/* INSERT QUERY NO: 316 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N61304', 'CO'
+);
+
+/* INSERT QUERY NO: 317 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N15659', 'CO'
+);
+
+/* INSERT QUERY NO: 318 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N19554', 'RU'
+);
+
+/* INSERT QUERY NO: 319 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N12567', 'RU'
+);
+
+/* INSERT QUERY NO: 320 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16927', 'RU'
+);
+
+/* INSERT QUERY NO: 321 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N17507', 'RU'
+);
+
+/* INSERT QUERY NO: 322 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N12996', 'RU'
+);
+
+/* INSERT QUERY NO: 323 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N41104', 'RU'
+);
+
+/* INSERT QUERY NO: 324 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N967CA', 'OH'
+);
+
+/* INSERT QUERY NO: 325 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N426FJ', 'DH'
+);
+
+/* INSERT QUERY NO: 326 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N648BR', 'DH'
+);
+
+/* INSERT QUERY NO: 327 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N690BR', 'DH'
+);
+
+/* INSERT QUERY NO: 328 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N904DE', 'DL'
+);
+
+/* INSERT QUERY NO: 329 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N514UA', 'UA'
+);
+
+/* INSERT QUERY NO: 330 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N756UW', 'US'
+);
+
+/* INSERT QUERY NO: 331 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N741UW', 'US'
+);
+
+/* INSERT QUERY NO: 332 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N737UW', 'US'
+);
+
+/* INSERT QUERY NO: 333 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14542', 'RU'
+);
+
+/* INSERT QUERY NO: 334 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N12530', 'RU'
+);
+
+/* INSERT QUERY NO: 335 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16632', 'CO'
+);
+
+/* INSERT QUERY NO: 336 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14337', 'CO'
+);
+
+/* INSERT QUERY NO: 337 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16646', 'CO'
+);
+
+/* INSERT QUERY NO: 338 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N12922', 'RU'
+);
+
+/* INSERT QUERY NO: 339 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N796CA', 'OH'
+);
+
+/* INSERT QUERY NO: 340 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N987DL', 'DL'
+);
+
+/* INSERT QUERY NO: 341 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N231DN', 'DL'
+);
+
+/* INSERT QUERY NO: 342 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N813MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 343 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N843MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 344 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N728MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 345 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N533UA', 'UA'
+);
+
+/* INSERT QUERY NO: 346 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N739UW', 'US'
+);
+
+/* INSERT QUERY NO: 347 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N707UW', 'US'
+);
+
+/* INSERT QUERY NO: 348 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N12921', 'RU'
+);
+
+/* INSERT QUERY NO: 349 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14667', 'CO'
+);
+
+/* INSERT QUERY NO: 350 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N39343', 'CO'
+);
+
+/* INSERT QUERY NO: 351 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N629BR', 'DH'
+);
+
+/* INSERT QUERY NO: 352 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N15555', 'RU'
+);
+
+/* INSERT QUERY NO: 353 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13995', 'RU'
+);
+
+/* INSERT QUERY NO: 354 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14148', 'RU'
+);
+
+/* INSERT QUERY NO: 355 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N34111', 'RU'
+);
+
+/* INSERT QUERY NO: 356 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13964', 'RU'
+);
+
+/* INSERT QUERY NO: 357 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N419FJ', 'DH'
+);
+
+/* INSERT QUERY NO: 358 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N671BR', 'DH'
+);
+
+/* INSERT QUERY NO: 359 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N963DL', 'DL'
+);
+
+/* INSERT QUERY NO: 360 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N738MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 361 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N555UA', 'UA'
+);
+
+/* INSERT QUERY NO: 362 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N757UW', 'US'
+);
+
+/* INSERT QUERY NO: 363 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N700UW', 'US'
+);
+
+/* INSERT QUERY NO: 364 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N715UW', 'US'
+);
+
+/* INSERT QUERY NO: 365 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N12934', 'RU'
+);
+
+/* INSERT QUERY NO: 366 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N11551', 'RU'
+);
+
+/* INSERT QUERY NO: 367 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N17614', 'CO'
+);
+
+/* INSERT QUERY NO: 368 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N23139', 'RU'
+);
+
+/* INSERT QUERY NO: 369 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N27512', 'RU'
+);
+
+/* INSERT QUERY NO: 370 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14942', 'RU'
+);
+
+/* INSERT QUERY NO: 371 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N11127', 'RU'
+);
+
+/* INSERT QUERY NO: 372 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13994', 'RU'
+);
+
+/* INSERT QUERY NO: 373 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N924CA', 'OH'
+);
+
+/* INSERT QUERY NO: 374 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N423FJ', 'DH'
+);
+
+/* INSERT QUERY NO: 375 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N636BR', 'DH'
+);
+
+/* INSERT QUERY NO: 376 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N624BR', 'DH'
+);
+
+/* INSERT QUERY NO: 377 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N902DE', 'DL'
+);
+
+/* INSERT QUERY NO: 378 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N232DZ', 'DL'
+);
+
+/* INSERT QUERY NO: 379 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N805MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 380 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N723UW', 'US'
+);
+
+/* INSERT QUERY NO: 381 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N745UW', 'US'
+);
+
+/* INSERT QUERY NO: 382 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N716UW', 'US'
+);
+
+/* INSERT QUERY NO: 383 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13913', 'RU'
+);
+
+/* INSERT QUERY NO: 384 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13914', 'RU'
+);
+
+/* INSERT QUERY NO: 385 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N12319', 'CO'
+);
+
+/* INSERT QUERY NO: 386 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N26141', 'RU'
+);
+
+/* INSERT QUERY NO: 387 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14950', 'RU'
+);
+
+/* INSERT QUERY NO: 388 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N15572', 'RU'
+);
+
+/* INSERT QUERY NO: 389 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16510', 'RU'
+);
+
+/* INSERT QUERY NO: 390 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14972', 'RU'
+);
+
+/* INSERT QUERY NO: 391 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N15910', 'RU'
+);
+
+/* INSERT QUERY NO: 392 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N435CA', 'OH'
+);
+
+/* INSERT QUERY NO: 393 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N409FJ', 'DH'
+);
+
+/* INSERT QUERY NO: 394 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N660BR', 'DH'
+);
+
+/* INSERT QUERY NO: 395 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N909DL', 'DL'
+);
+
+/* INSERT QUERY NO: 396 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N729MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 397 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N507UA', 'UA'
+);
+
+/* INSERT QUERY NO: 398 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N37615', 'CO'
+);
+
+/* INSERT QUERY NO: 399 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N29906', 'RU'
+);
+
+/* INSERT QUERY NO: 400 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14562', 'RU'
+);
+
+/* INSERT QUERY NO: 401 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N21144', 'RU'
+);
+
+/* INSERT QUERY NO: 402 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N712CA', 'OH'
+);
+
+/* INSERT QUERY NO: 403 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N404FJ', 'DH'
+);
+
+/* INSERT QUERY NO: 404 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N663BR', 'DH'
+);
+
+/* INSERT QUERY NO: 405 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N678BR', 'DH'
+);
+
+/* INSERT QUERY NO: 406 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N928DL', 'DL'
+);
+
+/* INSERT QUERY NO: 407 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N579UA', 'UA'
+);
+
+/* INSERT QUERY NO: 408 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N755UW', 'US'
+);
+
+/* INSERT QUERY NO: 409 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N17984', 'RU'
+);
+
+/* INSERT QUERY NO: 410 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N15980', 'RU'
+);
+
+/* INSERT QUERY NO: 411 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16501', 'RU'
+);
+
+/* INSERT QUERY NO: 412 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14629', 'CO'
+);
+
+/* INSERT QUERY NO: 413 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16650', 'CO'
+);
+
+/* INSERT QUERY NO: 414 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N701BR', 'DH'
+);
+
+/* INSERT QUERY NO: 415 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13124', 'RU'
+);
+
+/* INSERT QUERY NO: 416 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14558', 'RU'
+);
+
+/* INSERT QUERY NO: 417 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13929', 'RU'
+);
+
+/* INSERT QUERY NO: 418 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N975CA', 'OH'
+);
+
+/* INSERT QUERY NO: 419 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N910DL', 'DL'
+);
+
+/* INSERT QUERY NO: 420 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N753UW', 'US'
+);
+
+/* INSERT QUERY NO: 421 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N706UW', 'US'
+);
+
+/* INSERT QUERY NO: 422 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N17321', 'CO'
+);
+
+/* INSERT QUERY NO: 423 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14639', 'CO'
+);
+
+/* INSERT QUERY NO: 424 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N17619', 'CO'
+);
+
+/* INSERT QUERY NO: 425 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N689BR', 'DH'
+);
+
+/* INSERT QUERY NO: 426 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N710BR', 'DH'
+);
+
+/* INSERT QUERY NO: 427 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16520', 'RU'
+);
+
+/* INSERT QUERY NO: 428 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N28518', 'RU'
+);
+
+/* INSERT QUERY NO: 429 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N15912', 'RU'
+);
+
+/* INSERT QUERY NO: 430 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N18120', 'RU'
+);
+
+/* INSERT QUERY NO: 431 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N48901', 'RU'
+);
+
+/* INSERT QUERY NO: 432 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N956CA', 'OH'
+);
+
+/* INSERT QUERY NO: 433 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N637BR', 'DH'
+);
+
+/* INSERT QUERY NO: 434 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N708BR', 'DH'
+);
+
+/* INSERT QUERY NO: 435 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N926DL', 'DL'
+);
+
+/* INSERT QUERY NO: 436 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N701MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 437 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N702MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 438 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N769UW', 'US'
+);
+
+/* INSERT QUERY NO: 439 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N705UW', 'US'
+);
+
+/* INSERT QUERY NO: 440 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N749UW', 'US'
+);
+
+/* INSERT QUERY NO: 441 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14920', 'RU'
+);
+
+/* INSERT QUERY NO: 442 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13566', 'RU'
+);
+
+/* INSERT QUERY NO: 443 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14655', 'CO'
+);
+
+/* INSERT QUERY NO: 444 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N47332', 'CO'
+);
+
+/* INSERT QUERY NO: 445 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16607', 'CO'
+);
+
+/* INSERT QUERY NO: 446 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14543', 'RU'
+);
+
+/* INSERT QUERY NO: 447 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N11539', 'RU'
+);
+
+/* INSERT QUERY NO: 448 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N804CA', 'OH'
+);
+
+/* INSERT QUERY NO: 449 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N656BR', 'DH'
+);
+
+/* INSERT QUERY NO: 450 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N938DL', 'DL'
+);
+
+/* INSERT QUERY NO: 451 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N3734B', 'DL'
+);
+
+/* INSERT QUERY NO: 452 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N563UA', 'UA'
+);
+
+/* INSERT QUERY NO: 453 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N713UW', 'US'
+);
+
+/* INSERT QUERY NO: 454 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N766UW', 'US'
+);
+
+/* INSERT QUERY NO: 455 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14902', 'RU'
+);
+
+/* INSERT QUERY NO: 456 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14568', 'RU'
+);
+
+/* INSERT QUERY NO: 457 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N12327', 'CO'
+);
+
+/* INSERT QUERY NO: 458 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14601', 'CO'
+);
+
+/* INSERT QUERY NO: 459 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N62631', 'CO'
+);
+
+/* INSERT QUERY NO: 460 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N18102', 'RU'
+);
+
+/* INSERT QUERY NO: 461 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N949CA', 'OH'
+);
+
+/* INSERT QUERY NO: 462 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N653BR', 'DH'
+);
+
+/* INSERT QUERY NO: 463 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N623BR', 'DH'
+);
+
+/* INSERT QUERY NO: 464 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N986DL', 'DL'
+);
+
+/* INSERT QUERY NO: 465 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N814MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 466 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N558UA', 'UA'
+);
+
+/* INSERT QUERY NO: 467 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N714UW', 'US'
+);
+
+/* INSERT QUERY NO: 468 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N11535', 'RU'
+);
+
+/* INSERT QUERY NO: 469 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N17663', 'CO'
+);
+
+/* INSERT QUERY NO: 470 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N17644', 'CO'
+);
+
+/* INSERT QUERY NO: 471 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N27733', 'CO'
+);
+
+/* INSERT QUERY NO: 472 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N703BR', 'DH'
+);
+
+/* INSERT QUERY NO: 473 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14514', 'RU'
+);
+
+/* INSERT QUERY NO: 474 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13970', 'RU'
+);
+
+/* INSERT QUERY NO: 475 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16918', 'RU'
+);
+
+/* INSERT QUERY NO: 476 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N25134', 'RU'
+);
+
+/* INSERT QUERY NO: 477 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N430CA', 'OH'
+);
+
+/* INSERT QUERY NO: 478 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N668BR', 'DH'
+);
+
+/* INSERT QUERY NO: 479 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N937DL', 'DL'
+);
+
+/* INSERT QUERY NO: 480 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N517UA', 'UA'
+);
+
+/* INSERT QUERY NO: 481 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N768UW', 'US'
+);
+
+/* INSERT QUERY NO: 482 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N21129', 'RU'
+);
+
+/* INSERT QUERY NO: 483 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14959', 'RU'
+);
+
+/* INSERT QUERY NO: 484 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N63305', 'CO'
+);
+
+/* INSERT QUERY NO: 485 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N17620', 'CO'
+);
+
+/* INSERT QUERY NO: 486 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13665', 'CO'
+);
+
+/* INSERT QUERY NO: 487 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14143', 'RU'
+);
+
+/* INSERT QUERY NO: 488 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16502', 'RU'
+);
+
+/* INSERT QUERY NO: 489 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N442CA', 'OH'
+);
+
+/* INSERT QUERY NO: 490 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N428FJ', 'DH'
+);
+
+/* INSERT QUERY NO: 491 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N635BR', 'DH'
+);
+
+/* INSERT QUERY NO: 492 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N913DL', 'DL'
+);
+
+/* INSERT QUERY NO: 493 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14945', 'RU'
+);
+
+/* INSERT QUERY NO: 494 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N12135', 'RU'
+);
+
+/* INSERT QUERY NO: 495 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14930', 'RU'
+);
+
+/* INSERT QUERY NO: 496 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N11548', 'RU'
+);
+
+/* INSERT QUERY NO: 497 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N402FJ', 'DH'
+);
+
+/* INSERT QUERY NO: 498 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N306UE', 'DH'
+);
+
+/* INSERT QUERY NO: 499 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N931DL', 'DL'
+);
+
+/* INSERT QUERY NO: 500 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N851MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 501 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N581UA', 'UA'
+);
+
+/* INSERT QUERY NO: 502 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13908', 'RU'
+);
+
+/* INSERT QUERY NO: 503 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13956', 'RU'
+);
+
+/* INSERT QUERY NO: 504 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N811CA', 'OH'
+);
+
+/* INSERT QUERY NO: 505 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N681BR', 'DH'
+);
+
+/* INSERT QUERY NO: 506 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N670BR', 'DH'
+);
+
+/* INSERT QUERY NO: 507 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N905DL', 'DL'
+);
+
+/* INSERT QUERY NO: 508 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N525UA', 'UA'
+);
+
+/* INSERT QUERY NO: 509 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N704UW', 'US'
+);
+
+/* INSERT QUERY NO: 510 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13624', 'CO'
+);
+
+/* INSERT QUERY NO: 511 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N23661', 'CO'
+);
+
+/* INSERT QUERY NO: 512 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N33637', 'CO'
+);
+
+/* INSERT QUERY NO: 513 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14116', 'RU'
+);
+
+/* INSERT QUERY NO: 514 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N34110', 'RU'
+);
+
+/* INSERT QUERY NO: 515 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N420FJ', 'DH'
+);
+
+/* INSERT QUERY NO: 516 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N927DA', 'DL'
+);
+
+/* INSERT QUERY NO: 517 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N845MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 518 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N534UA', 'UA'
+);
+
+/* INSERT QUERY NO: 519 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N10323', 'CO'
+);
+
+/* INSERT QUERY NO: 520 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14613', 'CO'
+);
+
+/* INSERT QUERY NO: 521 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N18982', 'RU'
+);
+
+/* INSERT QUERY NO: 522 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N809CA', 'OH'
+);
+
+/* INSERT QUERY NO: 523 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N451FJ', 'DH'
+);
+
+/* INSERT QUERY NO: 524 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N921DL', 'DL'
+);
+
+/* INSERT QUERY NO: 525 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N836MQ', 'MQ'
+);
+
+/* INSERT QUERY NO: 526 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N540UA', 'UA'
+);
+
+/* INSERT QUERY NO: 527 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N758UW', 'US'
+);
+
+/* INSERT QUERY NO: 528 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14336', 'CO'
+);
+
+/* INSERT QUERY NO: 529 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N19638', 'CO'
+);
+
+/* INSERT QUERY NO: 530 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N17521', 'RU'
+);
+
+/* INSERT QUERY NO: 531 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16571', 'RU'
+);
+
+/* INSERT QUERY NO: 532 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N11119', 'RU'
+);
+
+/* INSERT QUERY NO: 533 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N669BR', 'DH'
+);
+
+/* INSERT QUERY NO: 534 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N620BR', 'DH'
+);
+
+/* INSERT QUERY NO: 535 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N954DL', 'DL'
+);
+
+/* INSERT QUERY NO: 536 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N751UW', 'US'
+);
+
+/* INSERT QUERY NO: 537 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14652', 'CO'
+);
+
+/* INSERT QUERY NO: 538 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N16701', 'CO'
+);
+
+/* INSERT QUERY NO: 539 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N13965', 'RU'
+);
+
+/* INSERT QUERY NO: 540 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N958CA', 'OH'
+);
+
+/* INSERT QUERY NO: 541 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N940DL', 'DL'
+);
+
+/* INSERT QUERY NO: 542 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N536UA', 'UA'
+);
+
+/* INSERT QUERY NO: 543 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N12563', 'RU'
+);
+
+/* INSERT QUERY NO: 544 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N14605', 'CO'
+);
+
+/* INSERT QUERY NO: 545 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N11121', 'RU'
+);
+
+/* INSERT QUERY NO: 546 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N959CA', 'OH'
+);
+
+/* INSERT QUERY NO: 547 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N934DL', 'DL'
+);
+
+/* INSERT QUERY NO: 548 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N592UA', 'UA'
+);
+
+/* INSERT QUERY NO: 549 */
+INSERT INTO AIRCRAFT(Tailnu, Carrier)
+VALUES
+(
+'N15932', 'RU'
+);
+
+
+
+/* INSERT QUERY NO: 1 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/1/2004', 1, 4
+);
+
+/* INSERT QUERY NO: 2 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/2/2004', 2, 5
+);
+
+/* INSERT QUERY NO: 3 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/3/2004', 3, 6
+);
+
+/* INSERT QUERY NO: 4 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/4/2004', 4, 7
+);
+
+/* INSERT QUERY NO: 5 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/5/2004', 5, 1
+);
+
+/* INSERT QUERY NO: 6 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/6/2004', 6, 2
+);
+
+/* INSERT QUERY NO: 7 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/7/2004', 7, 3
+);
+
+/* INSERT QUERY NO: 8 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/8/2004', 8, 4
+);
+
+/* INSERT QUERY NO: 9 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/9/2004', 9, 5
+);
+
+/* INSERT QUERY NO: 10 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/10/2004', 10, 6
+);
+
+/* INSERT QUERY NO: 11 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/11/2004', 11, 7
+);
+
+/* INSERT QUERY NO: 12 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/12/2004', 12, 1
+);
+
+/* INSERT QUERY NO: 13 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/13/2004', 13, 2
+);
+
+/* INSERT QUERY NO: 14 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/14/2004', 14, 3
+);
+
+/* INSERT QUERY NO: 15 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/15/2004', 15, 4
+);
+
+/* INSERT QUERY NO: 16 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/16/2004', 16, 5
+);
+
+/* INSERT QUERY NO: 17 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/17/2004', 17, 6
+);
+
+/* INSERT QUERY NO: 18 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/18/2004', 18, 7
+);
+
+/* INSERT QUERY NO: 19 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/19/2004', 19, 1
+);
+
+/* INSERT QUERY NO: 20 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/20/2004', 20, 2
+);
+
+/* INSERT QUERY NO: 21 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/21/2004', 21, 3
+);
+
+/* INSERT QUERY NO: 22 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/22/2004', 22, 4
+);
+
+/* INSERT QUERY NO: 23 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/23/2004', 23, 5
+);
+
+/* INSERT QUERY NO: 24 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/24/2004', 24, 6
+);
+
+/* INSERT QUERY NO: 25 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/25/2004', 25, 7
+);
+
+/* INSERT QUERY NO: 26 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/26/2004', 26, 1
+);
+
+/* INSERT QUERY NO: 27 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/27/2004', 27, 2
+);
+
+/* INSERT QUERY NO: 28 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/28/2004', 28, 3
+);
+
+/* INSERT QUERY NO: 29 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/29/2004', 29, 4
+);
+
+/* INSERT QUERY NO: 30 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/30/2004', 30, 5
+);
+
+/* INSERT QUERY NO: 31 */
+INSERT INTO DATE_(FlightDate, DayMonth, DayWeek)
+VALUES
+(
+'1/31/2004', 31, 6
+);
+
+
+
+/* INSERT QUERY NO: 1 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+5935, 'BWI', 'JFK', 1455, 184
+);
+
+/* INSERT QUERY NO: 2 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+6155, 'DCA', 'JFK', 1640, 213
+);
+
+/* INSERT QUERY NO: 3 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7208, 'IAD', 'LGA', 1245, 229
+);
+
+/* INSERT QUERY NO: 4 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7215, 'IAD', 'LGA', 1715, 229
+);
+
+/* INSERT QUERY NO: 5 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7792, 'IAD', 'LGA', 1039, 229
+);
+
+/* INSERT QUERY NO: 6 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7800, 'IAD', 'JFK', 840, 228
+);
+
+/* INSERT QUERY NO: 7 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7806, 'IAD', 'JFK', 1240, 228
+);
+
+/* INSERT QUERY NO: 8 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7810, 'IAD', 'JFK', 1645, 228
+);
+
+/* INSERT QUERY NO: 9 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7812, 'IAD', 'JFK', 1715, 228
+);
+
+/* INSERT QUERY NO: 10 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7814, 'IAD', 'JFK', 2120, 228
+);
+
+/* INSERT QUERY NO: 11 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7924, 'IAD', 'LGA', 2120, 229
+);
+
+/* INSERT QUERY NO: 12 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+746, 'DCA', 'JFK', 1455, 213
+);
+
+/* INSERT QUERY NO: 13 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1746, 'DCA', 'LGA', 930, 214
+);
+
+/* INSERT QUERY NO: 14 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1752, 'DCA', 'LGA', 1230, 214
+);
+
+/* INSERT QUERY NO: 15 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1756, 'DCA', 'LGA', 1430, 214
+);
+
+/* INSERT QUERY NO: 16 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1762, 'DCA', 'LGA', 1730, 214
+);
+
+/* INSERT QUERY NO: 17 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1768, 'DCA', 'LGA', 2030, 214
+);
+
+/* INSERT QUERY NO: 18 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4752, 'DCA', 'JFK', 1530, 213
+);
+
+/* INSERT QUERY NO: 19 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4760, 'DCA', 'JFK', 600, 213
+);
+
+/* INSERT QUERY NO: 20 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4784, 'DCA', 'JFK', 1830, 213
+);
+
+/* INSERT QUERY NO: 21 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4956, 'DCA', 'LGA', 900, 214
+);
+
+/* INSERT QUERY NO: 22 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4964, 'DCA', 'LGA', 1300, 214
+);
+
+/* INSERT QUERY NO: 23 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4966, 'DCA', 'LGA', 1400, 214
+);
+
+/* INSERT QUERY NO: 24 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4968, 'DCA', 'LGA', 1500, 214
+);
+
+/* INSERT QUERY NO: 25 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4976, 'DCA', 'LGA', 1900, 214
+);
+
+/* INSERT QUERY NO: 26 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+846, 'IAD', 'LGA', 850, 229
+);
+
+/* INSERT QUERY NO: 27 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2164, 'DCA', 'LGA', 900, 214
+);
+
+/* INSERT QUERY NO: 28 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2168, 'DCA', 'LGA', 1100, 214
+);
+
+/* INSERT QUERY NO: 29 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2172, 'DCA', 'LGA', 1300, 214
+);
+
+/* INSERT QUERY NO: 30 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2176, 'DCA', 'LGA', 1500, 214
+);
+
+/* INSERT QUERY NO: 31 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2180, 'DCA', 'LGA', 1700, 214
+);
+
+/* INSERT QUERY NO: 32 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2188, 'DCA', 'LGA', 2100, 214
+);
+
+/* INSERT QUERY NO: 33 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2403, 'BWI', 'EWR', 1455, 169
+);
+
+/* INSERT QUERY NO: 34 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2675, 'BWI', 'EWR', 1720, 169
+);
+
+/* INSERT QUERY NO: 35 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2303, 'BWI', 'EWR', 1030, 169
+);
+
+/* INSERT QUERY NO: 36 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2703, 'BWI', 'EWR', 700, 169
+);
+
+/* INSERT QUERY NO: 37 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+808, 'DCA', 'EWR', 1300, 199
+);
+
+/* INSERT QUERY NO: 38 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+814, 'DCA', 'EWR', 1730, 199
+);
+
+/* INSERT QUERY NO: 39 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7299, 'IAD', 'EWR', 840, 213
+);
+
+/* INSERT QUERY NO: 40 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7302, 'IAD', 'EWR', 1710, 213
+);
+
+/* INSERT QUERY NO: 41 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7303, 'IAD', 'EWR', 1245, 213
+);
+
+/* INSERT QUERY NO: 42 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7304, 'IAD', 'EWR', 2120, 213
+);
+
+/* INSERT QUERY NO: 43 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2497, 'IAD', 'EWR', 1700, 213
+);
+
+/* INSERT QUERY NO: 44 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2385, 'IAD', 'EWR', 1900, 213
+);
+
+/* INSERT QUERY NO: 45 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2261, 'DCA', 'EWR', 1525, 199
+);
+
+/* INSERT QUERY NO: 46 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2336, 'DCA', 'EWR', 1900, 199
+);
+
+/* INSERT QUERY NO: 47 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2216, 'DCA', 'EWR', 1400, 199
+);
+
+/* INSERT QUERY NO: 48 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2156, 'IAD', 'EWR', 1515, 213
+);
+
+/* INSERT QUERY NO: 49 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2664, 'IAD', 'EWR', 1300, 213
+);
+
+/* INSERT QUERY NO: 50 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2181, 'DCA', 'EWR', 1630, 199
+);
+
+/* INSERT QUERY NO: 51 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7211, 'BWI', 'JFK', 1455, 184
+);
+
+/* INSERT QUERY NO: 52 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7790, 'DCA', 'JFK', 1640, 213
+);
+
+/* INSERT QUERY NO: 53 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7808, 'IAD', 'LGA', 1245, 229
+);
+
+/* INSERT QUERY NO: 54 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7816, 'IAD', 'LGA', 1455, 229
+);
+
+/* INSERT QUERY NO: 55 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4960, 'IAD', 'LGA', 1715, 229
+);
+
+/* INSERT QUERY NO: 56 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2160, 'IAD', 'LGA', 640, 229
+);
+
+/* INSERT QUERY NO: 57 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2184, 'IAD', 'LGA', 1039, 229
+);
+
+/* INSERT QUERY NO: 58 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+806, 'IAD', 'JFK', 840, 228
+);
+
+/* INSERT QUERY NO: 59 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7307, 'IAD', 'JFK', 1240, 228
+);
+
+/* INSERT QUERY NO: 60 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7371, 'IAD', 'JFK', 1455, 228
+);
+
+/* INSERT QUERY NO: 61 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2855, 'IAD', 'JFK', 1645, 228
+);
+
+/* INSERT QUERY NO: 62 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2582, 'IAD', 'JFK', 1715, 228
+);
+
+/* INSERT QUERY NO: 63 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2761, 'IAD', 'JFK', 2120, 228
+);
+
+/* INSERT QUERY NO: 64 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2692, 'IAD', 'JFK', 1610, 228
+);
+
+/* INSERT QUERY NO: 65 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+3276, 'IAD', 'LGA', 2120, 229
+);
+
+/* INSERT QUERY NO: 66 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2879, 'DCA', 'JFK', 1455, 213
+);
+
+/* INSERT QUERY NO: 67 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1744, 'DCA', 'LGA', 930, 214
+);
+
+/* INSERT QUERY NO: 68 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1748, 'DCA', 'LGA', 1230, 214
+);
+
+/* INSERT QUERY NO: 69 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1760, 'DCA', 'LGA', 1430, 214
+);
+
+/* INSERT QUERY NO: 70 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1764, 'DCA', 'LGA', 1730, 214
+);
+
+/* INSERT QUERY NO: 71 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2267, 'DCA', 'LGA', 2030, 214
+);
+
+/* INSERT QUERY NO: 72 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2097, 'DCA', 'JFK', 1530, 213
+);
+
+/* INSERT QUERY NO: 73 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4771, 'DCA', 'JFK', 600, 213
+);
+
+/* INSERT QUERY NO: 74 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4972, 'DCA', 'JFK', 1830, 213
+);
+
+/* INSERT QUERY NO: 75 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2166, 'DCA', 'LGA', 900, 214
+);
+
+/* INSERT QUERY NO: 76 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2170, 'DCA', 'LGA', 1100, 214
+);
+
+/* INSERT QUERY NO: 77 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2174, 'DCA', 'LGA', 1300, 214
+);
+
+/* INSERT QUERY NO: 78 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2178, 'DCA', 'LGA', 1400, 214
+);
+
+/* INSERT QUERY NO: 79 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2182, 'DCA', 'LGA', 1500, 214
+);
+
+/* INSERT QUERY NO: 80 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2186, 'IAD', 'LGA', 850, 229
+);
+
+/* INSERT QUERY NO: 81 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2603, 'DCA', 'LGA', 700, 214
+);
+
+/* INSERT QUERY NO: 82 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+810, 'DCA', 'LGA', 900, 214
+);
+
+/* INSERT QUERY NO: 83 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1740, 'DCA', 'LGA', 1100, 214
+);
+
+/* INSERT QUERY NO: 84 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1742, 'DCA', 'LGA', 1300, 214
+);
+
+/* INSERT QUERY NO: 85 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1750, 'DCA', 'LGA', 1500, 214
+);
+
+/* INSERT QUERY NO: 86 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1754, 'DCA', 'LGA', 1700, 214
+);
+
+/* INSERT QUERY NO: 87 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1766, 'DCA', 'LGA', 1900, 214
+);
+
+/* INSERT QUERY NO: 88 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4952, 'DCA', 'LGA', 2100, 214
+);
+
+/* INSERT QUERY NO: 89 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4954, 'BWI', 'EWR', 1720, 169
+);
+
+/* INSERT QUERY NO: 90 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4970, 'BWI', 'EWR', 1030, 169
+);
+
+/* INSERT QUERY NO: 91 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1479, 'BWI', 'EWR', 700, 169
+);
+
+/* INSERT QUERY NO: 92 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2162, 'BWI', 'EWR', 1455, 169
+);
+
+/* INSERT QUERY NO: 93 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1758, 'DCA', 'EWR', 1730, 199
+);
+
+/* INSERT QUERY NO: 94 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+3372, 'DCA', 'EWR', 1300, 199
+);
+
+/* INSERT QUERY NO: 95 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+816, 'DCA', 'EWR', 759, 199
+);
+
+/* INSERT QUERY NO: 96 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2367, 'IAD', 'EWR', 840, 213
+);
+
+/* INSERT QUERY NO: 97 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7305, 'IAD', 'EWR', 1245, 213
+);
+
+/* INSERT QUERY NO: 98 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7684, 'IAD', 'EWR', 1430, 213
+);
+
+/* INSERT QUERY NO: 99 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7818, 'IAD', 'EWR', 630, 213
+);
+
+/* INSERT QUERY NO: 100 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2229, 'DCA', 'EWR', 1630, 199
+);
+
+/* INSERT QUERY NO: 101 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2361, 'IAD', 'EWR', 700, 213
+);
+
+/* INSERT QUERY NO: 102 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1767, 'DCA', 'EWR', 900, 199
+);
+
+/* INSERT QUERY NO: 103 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2254, 'DCA', 'EWR', 700, 199
+);
+
+
+
+/* INSERT QUERY NO: 1 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+5935, 'BWI', 'JFK', 1455, 184
+);
+
+/* INSERT QUERY NO: 2 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+6155, 'DCA', 'JFK', 1640, 213
+);
+
+/* INSERT QUERY NO: 3 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7208, 'IAD', 'LGA', 1245, 229
+);
+
+/* INSERT QUERY NO: 4 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7215, 'IAD', 'LGA', 1715, 229
+);
+
+/* INSERT QUERY NO: 5 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7792, 'IAD', 'LGA', 1039, 229
+);
+
+/* INSERT QUERY NO: 6 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7800, 'IAD', 'JFK', 840, 228
+);
+
+/* INSERT QUERY NO: 7 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7806, 'IAD', 'JFK', 1240, 228
+);
+
+/* INSERT QUERY NO: 8 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7810, 'IAD', 'JFK', 1645, 228
+);
+
+/* INSERT QUERY NO: 9 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7812, 'IAD', 'JFK', 1715, 228
+);
+
+/* INSERT QUERY NO: 10 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7814, 'IAD', 'JFK', 2120, 228
+);
+
+/* INSERT QUERY NO: 11 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7924, 'IAD', 'LGA', 2120, 229
+);
+
+/* INSERT QUERY NO: 12 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+746, 'DCA', 'JFK', 1455, 213
+);
+
+/* INSERT QUERY NO: 13 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1746, 'DCA', 'LGA', 930, 214
+);
+
+/* INSERT QUERY NO: 14 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1752, 'DCA', 'LGA', 1230, 214
+);
+
+/* INSERT QUERY NO: 15 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1756, 'DCA', 'LGA', 1430, 214
+);
+
+/* INSERT QUERY NO: 16 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1762, 'DCA', 'LGA', 1730, 214
+);
+
+/* INSERT QUERY NO: 17 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1768, 'DCA', 'LGA', 2030, 214
+);
+
+/* INSERT QUERY NO: 18 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4752, 'DCA', 'JFK', 1530, 213
+);
+
+/* INSERT QUERY NO: 19 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4760, 'DCA', 'JFK', 600, 213
+);
+
+/* INSERT QUERY NO: 20 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4784, 'DCA', 'JFK', 1830, 213
+);
+
+/* INSERT QUERY NO: 21 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4956, 'DCA', 'LGA', 900, 214
+);
+
+/* INSERT QUERY NO: 22 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4964, 'DCA', 'LGA', 1300, 214
+);
+
+/* INSERT QUERY NO: 23 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4966, 'DCA', 'LGA', 1400, 214
+);
+
+/* INSERT QUERY NO: 24 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4968, 'DCA', 'LGA', 1500, 214
+);
+
+/* INSERT QUERY NO: 25 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4976, 'DCA', 'LGA', 1900, 214
+);
+
+/* INSERT QUERY NO: 26 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+846, 'IAD', 'LGA', 850, 229
+);
+
+/* INSERT QUERY NO: 27 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2164, 'DCA', 'LGA', 900, 214
+);
+
+/* INSERT QUERY NO: 28 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2168, 'DCA', 'LGA', 1100, 214
+);
+
+/* INSERT QUERY NO: 29 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2172, 'DCA', 'LGA', 1300, 214
+);
+
+/* INSERT QUERY NO: 30 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2176, 'DCA', 'LGA', 1500, 214
+);
+
+/* INSERT QUERY NO: 31 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2180, 'DCA', 'LGA', 1700, 214
+);
+
+/* INSERT QUERY NO: 32 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2188, 'DCA', 'LGA', 2100, 214
+);
+
+/* INSERT QUERY NO: 33 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2403, 'BWI', 'EWR', 1455, 169
+);
+
+/* INSERT QUERY NO: 34 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2675, 'BWI', 'EWR', 1720, 169
+);
+
+/* INSERT QUERY NO: 35 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2303, 'BWI', 'EWR', 1030, 169
+);
+
+/* INSERT QUERY NO: 36 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2703, 'BWI', 'EWR', 700, 169
+);
+
+/* INSERT QUERY NO: 37 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+808, 'DCA', 'EWR', 1300, 199
+);
+
+/* INSERT QUERY NO: 38 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+814, 'DCA', 'EWR', 1730, 199
+);
+
+/* INSERT QUERY NO: 39 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7299, 'IAD', 'EWR', 840, 213
+);
+
+/* INSERT QUERY NO: 40 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7302, 'IAD', 'EWR', 1710, 213
+);
+
+/* INSERT QUERY NO: 41 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7303, 'IAD', 'EWR', 1245, 213
+);
+
+/* INSERT QUERY NO: 42 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7304, 'IAD', 'EWR', 2120, 213
+);
+
+/* INSERT QUERY NO: 43 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2497, 'IAD', 'EWR', 1700, 213
+);
+
+/* INSERT QUERY NO: 44 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2385, 'IAD', 'EWR', 1900, 213
+);
+
+/* INSERT QUERY NO: 45 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2261, 'DCA', 'EWR', 1525, 199
+);
+
+/* INSERT QUERY NO: 46 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2336, 'DCA', 'EWR', 1900, 199
+);
+
+/* INSERT QUERY NO: 47 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2216, 'DCA', 'EWR', 1400, 199
+);
+
+/* INSERT QUERY NO: 48 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2156, 'IAD', 'EWR', 1515, 213
+);
+
+/* INSERT QUERY NO: 49 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2664, 'IAD', 'EWR', 1300, 213
+);
+
+/* INSERT QUERY NO: 50 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2181, 'DCA', 'EWR', 1630, 199
+);
+
+/* INSERT QUERY NO: 51 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7211, 'BWI', 'JFK', 1455, 184
+);
+
+/* INSERT QUERY NO: 52 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7790, 'DCA', 'JFK', 1640, 213
+);
+
+/* INSERT QUERY NO: 53 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7808, 'IAD', 'LGA', 1245, 229
+);
+
+/* INSERT QUERY NO: 54 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7816, 'IAD', 'LGA', 1455, 229
+);
+
+/* INSERT QUERY NO: 55 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4960, 'IAD', 'LGA', 1715, 229
+);
+
+/* INSERT QUERY NO: 56 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2160, 'IAD', 'LGA', 640, 229
+);
+
+/* INSERT QUERY NO: 57 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2184, 'IAD', 'LGA', 1039, 229
+);
+
+/* INSERT QUERY NO: 58 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+806, 'IAD', 'JFK', 840, 228
+);
+
+/* INSERT QUERY NO: 59 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7307, 'IAD', 'JFK', 1240, 228
+);
+
+/* INSERT QUERY NO: 60 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7371, 'IAD', 'JFK', 1455, 228
+);
+
+/* INSERT QUERY NO: 61 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2855, 'IAD', 'JFK', 1645, 228
+);
+
+/* INSERT QUERY NO: 62 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2582, 'IAD', 'JFK', 1715, 228
+);
+
+/* INSERT QUERY NO: 63 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2761, 'IAD', 'JFK', 2120, 228
+);
+
+/* INSERT QUERY NO: 64 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2692, 'IAD', 'JFK', 1610, 228
+);
+
+/* INSERT QUERY NO: 65 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+3276, 'IAD', 'LGA', 2120, 229
+);
+
+/* INSERT QUERY NO: 66 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2879, 'DCA', 'JFK', 1455, 213
+);
+
+/* INSERT QUERY NO: 67 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1744, 'DCA', 'LGA', 930, 214
+);
+
+/* INSERT QUERY NO: 68 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1748, 'DCA', 'LGA', 1230, 214
+);
+
+/* INSERT QUERY NO: 69 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1760, 'DCA', 'LGA', 1430, 214
+);
+
+/* INSERT QUERY NO: 70 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1764, 'DCA', 'LGA', 1730, 214
+);
+
+/* INSERT QUERY NO: 71 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2267, 'DCA', 'LGA', 2030, 214
+);
+
+/* INSERT QUERY NO: 72 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2097, 'DCA', 'JFK', 1530, 213
+);
+
+/* INSERT QUERY NO: 73 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4771, 'DCA', 'JFK', 600, 213
+);
+
+/* INSERT QUERY NO: 74 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4972, 'DCA', 'JFK', 1830, 213
+);
+
+/* INSERT QUERY NO: 75 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2166, 'DCA', 'LGA', 900, 214
+);
+
+/* INSERT QUERY NO: 76 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2170, 'DCA', 'LGA', 1100, 214
+);
+
+/* INSERT QUERY NO: 77 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2174, 'DCA', 'LGA', 1300, 214
+);
+
+/* INSERT QUERY NO: 78 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2178, 'DCA', 'LGA', 1400, 214
+);
+
+/* INSERT QUERY NO: 79 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2182, 'DCA', 'LGA', 1500, 214
+);
+
+/* INSERT QUERY NO: 80 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2186, 'IAD', 'LGA', 850, 229
+);
+
+/* INSERT QUERY NO: 81 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2603, 'DCA', 'LGA', 700, 214
+);
+
+/* INSERT QUERY NO: 82 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+810, 'DCA', 'LGA', 900, 214
+);
+
+/* INSERT QUERY NO: 83 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1740, 'DCA', 'LGA', 1100, 214
+);
+
+/* INSERT QUERY NO: 84 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1742, 'DCA', 'LGA', 1300, 214
+);
+
+/* INSERT QUERY NO: 85 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1750, 'DCA', 'LGA', 1500, 214
+);
+
+/* INSERT QUERY NO: 86 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1754, 'DCA', 'LGA', 1700, 214
+);
+
+/* INSERT QUERY NO: 87 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1766, 'DCA', 'LGA', 1900, 214
+);
+
+/* INSERT QUERY NO: 88 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4952, 'DCA', 'LGA', 2100, 214
+);
+
+/* INSERT QUERY NO: 89 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4954, 'BWI', 'EWR', 1720, 169
+);
+
+/* INSERT QUERY NO: 90 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+4970, 'BWI', 'EWR', 1030, 169
+);
+
+/* INSERT QUERY NO: 91 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1479, 'BWI', 'EWR', 700, 169
+);
+
+/* INSERT QUERY NO: 92 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2162, 'BWI', 'EWR', 1455, 169
+);
+
+/* INSERT QUERY NO: 93 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1758, 'DCA', 'EWR', 1730, 199
+);
+
+/* INSERT QUERY NO: 94 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+3372, 'DCA', 'EWR', 1300, 199
+);
+
+/* INSERT QUERY NO: 95 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+816, 'DCA', 'EWR', 759, 199
+);
+
+/* INSERT QUERY NO: 96 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2367, 'IAD', 'EWR', 840, 213
+);
+
+/* INSERT QUERY NO: 97 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7305, 'IAD', 'EWR', 1245, 213
+);
+
+/* INSERT QUERY NO: 98 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7684, 'IAD', 'EWR', 1430, 213
+);
+
+/* INSERT QUERY NO: 99 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+7818, 'IAD', 'EWR', 630, 213
+);
+
+/* INSERT QUERY NO: 100 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2229, 'DCA', 'EWR', 1630, 199
+);
+
+/* INSERT QUERY NO: 101 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2361, 'IAD', 'EWR', 700, 213
+);
+
+/* INSERT QUERY NO: 102 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+1767, 'DCA', 'EWR', 900, 199
+);
+
+/* INSERT QUERY NO: 103 */
+INSERT INTO FLIGHT(FlightNum, Origin, Dest, Schedtime, Distance)
+VALUES
+(
+2254, 'DCA', 'EWR', 700, 199
+);
